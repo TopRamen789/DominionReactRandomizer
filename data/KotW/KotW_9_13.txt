@@ -1,0 +1,9 @@
+r/dominion•Posted byu/avocadromod3 years ago
+        .t3_isf2td.nbO8VWsMIB-Mv-tIa37NF {
+          --postTitle-VisitedLinkColor: #edeeef;
+          --postTitleLink-VisitedLinkColor: #6f7071;
+          --postBodyLink-VisitedLinkColor: #6f7071;
+        }
+      
+            
+          KotW 9/13: Artificer, Bank, Bazaar, Crown, Farmers' Market, Goons, Guide, Lookout, Swamp Hag, Tactician. Events: Lost Arts, Ritual. No Colony/Platinum. [Seaside, Prosperity, Adventures, Empires]KotW7 upvotes11 comments

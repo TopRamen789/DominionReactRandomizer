@@ -1,0 +1,9 @@
+r/dominion•Posted byu/avocadromod2 years ago
+        .t3_p16fbx.nbO8VWsMIB-Mv-tIa37NF {
+          --postTitle-VisitedLinkColor: #edeeef;
+          --postTitleLink-VisitedLinkColor: #6f7071;
+          --postBodyLink-VisitedLinkColor: #6f7071;
+        }
+      
+            
+          KotW 8/8: Border Guard, Caravan, Cargo Ship, Displace, Distant Lands, Embassy, Highway, Settlers/Bustling Village, Supplies, Warehouse. Event: Travelling Fair. [Seaside, Hinterlands, Adventures, Empires, Renaissance, Menagerie]KotW16 upvotes6 comments

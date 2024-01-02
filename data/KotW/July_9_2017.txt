@@ -1,0 +1,1 @@
+Beggar,Bishop,Chapel,Forager,Fortress,Goons,Governor,Knights,Market Square,Rats,Advance,Tomb

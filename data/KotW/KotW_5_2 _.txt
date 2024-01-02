@@ -1,0 +1,9 @@
+r/dominion•Posted byu/avocadromod3 years ago
+        .t3_n3phds.nbO8VWsMIB-Mv-tIa37NF {
+          --postTitle-VisitedLinkColor: #edeeef;
+          --postTitleLink-VisitedLinkColor: #6f7071;
+          --postBodyLink-VisitedLinkColor: #6f7071;
+        }
+      
+            
+          KotW 5/2: Border Village, Expand, Fool's Gold, Loan, Peddler, Priest, Research, Scepter, Spice Merchant, Vault. Project: City Gate. No Colony/Platinum. [Prosperity, Hinterlands, Renaissance]KotW6 upvotes5 comments

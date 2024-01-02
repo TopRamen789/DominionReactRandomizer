@@ -1,0 +1,9 @@
+r/dominion•Posted byu/avocadromod2 years ago
+        .t3_ow8ar8.nbO8VWsMIB-Mv-tIa37NF {
+          --postTitle-VisitedLinkColor: #edeeef;
+          --postTitleLink-VisitedLinkColor: #6f7071;
+          --postBodyLink-VisitedLinkColor: #6f7071;
+        }
+      
+            
+          KotW 8/1: Apothecary, Artificer, Bridge Troll, Catapult/Rocks, Count, Forager, Magpie, Scrying Pool, Squire, University. Event: Save. No Shelters. [Alchemy, Dark Ages, Adventures]KotW11 upvotes5 comments

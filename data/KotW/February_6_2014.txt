@@ -1,0 +1,1 @@
+Bishop,Forge,Fortress,Graverobber,Haven,Market Square,Mystic,Nobles,Quarry,Upgrade

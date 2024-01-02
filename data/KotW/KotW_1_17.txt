@@ -1,0 +1,9 @@
+r/dominion•Posted byu/avocadromod3 years ago
+        .t3_kzqppx.nbO8VWsMIB-Mv-tIa37NF {
+          --postTitle-VisitedLinkColor: #edeeef;
+          --postTitleLink-VisitedLinkColor: #6f7071;
+          --postBodyLink-VisitedLinkColor: #6f7071;
+        }
+      
+            
+          KotW 1/17: Cardinal, Ducat, Gatekeeper, Kiln, Magpie, Mastermind, Priest, Raze, Trade Route, Venture. Event: Invest; Project: Guildhall. Colony/Platinum. [Prosperity, Adventures, Renaissance, Menagerie]KotW9 upvotes10 comments

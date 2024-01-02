@@ -1,0 +1,9 @@
+r/dominion•Posted byu/avocadromod5 years ago
+        .t3_9qaa6t.nbO8VWsMIB-Mv-tIa37NF {
+          --postTitle-VisitedLinkColor: #edeeef;
+          --postTitleLink-VisitedLinkColor: #6f7071;
+          --postBodyLink-VisitedLinkColor: #6f7071;
+        }
+      
+            
+          KotW 10/21: Ambassador, City, Contraband, Fortress, Lurker, Nobles, Overlord, Poacher, Salvager, Upgrade. Events: Tax; Landmarks: Obelisk. No Shelters; no Colony/Platinum. [Dominion, Intrigue, Seaside, Prosperity, Dark Ages, Empires]KotW8 upvotes23 comments

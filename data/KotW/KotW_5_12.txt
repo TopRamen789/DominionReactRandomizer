@@ -1,0 +1,9 @@
+r/dominion•Posted byu/avocadromod5 years ago
+        .t3_bnyl1u.nbO8VWsMIB-Mv-tIa37NF {
+          --postTitle-VisitedLinkColor: #edeeef;
+          --postTitleLink-VisitedLinkColor: #6f7071;
+          --postBodyLink-VisitedLinkColor: #6f7071;
+        }
+      
+            
+          KotW 5/12: Bridge, Cultist, Fortress, Forum, Library, Rats, Remodel, Sacrifice, Squire, Villa. Events: Triumph. No Shelters. [Dominion, Dark Ages, Empires]KotW9 upvotes18 comments

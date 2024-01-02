@@ -1,0 +1,9 @@
+r/dominion•Posted byu/avocadromod5 years ago
+        .t3_byu03d.nbO8VWsMIB-Mv-tIa37NF {
+          --postTitle-VisitedLinkColor: #edeeef;
+          --postTitleLink-VisitedLinkColor: #6f7071;
+          --postBodyLink-VisitedLinkColor: #6f7071;
+        }
+      
+            
+          KotW 6/9: Border Village, Bridge, Crossroads, Develop, Distant Lands, Inn, Mountain Village, Patrol, Tunnel, Watchtower. Event: Delve; Landmark: Mountain Pass. No Colony/Platinum. [Intrigue, Prosperity, Hinterlands, Adventures, Empires, Renaissance]KotW9 upvotes10 comments

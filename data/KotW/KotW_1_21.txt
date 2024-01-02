@@ -1,0 +1,9 @@
+r/dominion•Posted byu/avocadromod5 years ago
+        .t3_aidgui.nbO8VWsMIB-Mv-tIa37NF {
+          --postTitle-VisitedLinkColor: #edeeef;
+          --postTitleLink-VisitedLinkColor: #6f7071;
+          --postBodyLink-VisitedLinkColor: #6f7071;
+        }
+      
+            
+          KotW 1/21: Chapel, Doctor, Embassy, Mountain Village, Peasant, Seer, Shepherd, Storyteller, Tragic Hero, University. Event: Mission; Landmark: Mountain Pass. [Dominion, Alchemy, Hinterlands, Guilds, Adventures, Nocturne, Renaissance]KotW10 upvotes3 comments

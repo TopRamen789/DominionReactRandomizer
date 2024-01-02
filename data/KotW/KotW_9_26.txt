@@ -1,0 +1,9 @@
+r/dominion•Posted byu/avocadromod2 years ago
+        .t3_pw53xr.nbO8VWsMIB-Mv-tIa37NF {
+          --postTitle-VisitedLinkColor: #edeeef;
+          --postTitleLink-VisitedLinkColor: #6f7071;
+          --postBodyLink-VisitedLinkColor: #6f7071;
+        }
+      
+            
+          KotW 9/26: Cargo Ship, Hermit, Jack of All Trades, Mystic, Patron, Rebuild, Research, Scheme, Silk Road, Squire. Projects: Crop Rotation, Silos. No Shelters. [Hinterlands, Dark Ages, Renaissance]KotW12 upvotes12 comments

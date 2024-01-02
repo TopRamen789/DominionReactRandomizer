@@ -1,0 +1,9 @@
+r/dominion•Posted byu/avocadromod5 years ago
+        .t3_aaz6tc.nbO8VWsMIB-Mv-tIa37NF {
+          --postTitle-VisitedLinkColor: #edeeef;
+          --postTitleLink-VisitedLinkColor: #6f7071;
+          --postBodyLink-VisitedLinkColor: #6f7071;
+        }
+      
+            
+          KotW 12/30: Border Village, Counterfeit, Highway, Junk Dealer, Loan, Marauder, Mountebank, Procession, Trader, Watchtower. Shelters; no Colony/Platinum. [Prosperity, Hinterlands, Dark Ages]KotW7 upvotes4 comments

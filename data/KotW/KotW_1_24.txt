@@ -1,0 +1,9 @@
+r/dominion•Posted byu/avocadromod3 years ago
+        .t3_l4hela.nbO8VWsMIB-Mv-tIa37NF {
+          --postTitle-VisitedLinkColor: #edeeef;
+          --postTitleLink-VisitedLinkColor: #6f7071;
+          --postBodyLink-VisitedLinkColor: #6f7071;
+        }
+      
+            
+          KotW 1/24: Border Village, Engineer, Faithful Hound, Groundskeeper, Horse Traders, Inn, Necromancer, Remake, Shepherd, Tunnel. Event: Triumph; Landmark: Keep. [Cornucopia, Hinterlands, Empires, Nocturne]KotW8 upvotes11 comments

@@ -1,0 +1,9 @@
+r/dominion•Posted byu/kieranmillarMod4 months ago
+        .t3_15wmidl.nbO8VWsMIB-Mv-tIa37NF {
+          --postTitle-VisitedLinkColor: #edeeef;
+          --postTitleLink-VisitedLinkColor: #6f7071;
+          --postBodyLink-VisitedLinkColor: #6f7071;
+        }
+      
+            
+          Kotw 21 Aug: Shepherd, Gardens, Mill, Island, Cemetery, Feodum, Distant Lands, Fairgrounds, Farmland, Nobles. Events: Inheritance, Lost Arts. No Shelters. [Base, Intrigue, Seaside, Cornucopia, Hinterlands, Dark Ages, Adventures, Nocturne]KotW15 upvotes6 comments

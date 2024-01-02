@@ -1,0 +1,9 @@
+r/dominion•Posted byu/avocadromod5 years ago
+        .t3_a2lwpt.nbO8VWsMIB-Mv-tIa37NF {
+          --postTitle-VisitedLinkColor: #edeeef;
+          --postTitleLink-VisitedLinkColor: #6f7071;
+          --postBodyLink-VisitedLinkColor: #6f7071;
+        }
+      
+            
+          KotW 12/2: Butcher, Chariot Race, Expand, Farmers' Market, Hireling, Jack of all Trades, Lurker, Procession, Rats, Soothsayer. Event: Plan; Landmark: Wall. No Shelters. No Colony/Platinum. [Intrigue, Prosperity, Hinterlands, Dark Ages, Guilds, Adventures, Empires]KotW14 upvotes8 comments

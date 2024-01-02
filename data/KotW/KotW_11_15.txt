@@ -1,0 +1,9 @@
+r/dominion•Posted byu/avocadromod3 years ago
+        .t3_jv199z.nbO8VWsMIB-Mv-tIa37NF {
+          --postTitle-VisitedLinkColor: #edeeef;
+          --postTitleLink-VisitedLinkColor: #6f7071;
+          --postBodyLink-VisitedLinkColor: #6f7071;
+        }
+      
+            
+          KotW 11/15: Animal Fair, Bridge Troll, Chapel, Den of Sin, Ghost Ship, Improve, Mastermind, Salvager, Treasure Trove, Vassal. Event: Toil. [Dominion, Seaside, Adventures, Nocturne, Renaissance, Menagerie]KotW7 upvotes12 comments

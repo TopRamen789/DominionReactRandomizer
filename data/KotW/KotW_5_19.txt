@@ -1,0 +1,9 @@
+r/dominion•Posted byu/avocadromod5 years ago
+        .t3_bqqrmi.nbO8VWsMIB-Mv-tIa37NF {
+          --postTitle-VisitedLinkColor: #edeeef;
+          --postTitleLink-VisitedLinkColor: #6f7071;
+          --postBodyLink-VisitedLinkColor: #6f7071;
+        }
+      
+            
+          KotW 5/19: Capital, City Quarter, Counterfeit, Forager, Gladiator/Fortune, Hoard, Ironmonger, King's Court, Mint, Pillage. Event: Tax; Landmark: Mountain Pass. Colony/Platinum; no Shelters. [Prosperity, Dark Ages, Empires]KotW6 upvotes6 comments

@@ -1,0 +1,1 @@
+Bishop,Familiar,Grand Market,Guide,Loan,Magpie,Margrave,Port,Tunnel,Vineyard,Ferry,Pathfinding

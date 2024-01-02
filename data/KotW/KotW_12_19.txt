@@ -1,0 +1,9 @@
+r/dominion•Posted byu/avocadromod2 years ago
+        .t3_rkd9b9.nbO8VWsMIB-Mv-tIa37NF {
+          --postTitle-VisitedLinkColor: #edeeef;
+          --postTitleLink-VisitedLinkColor: #6f7071;
+          --postBodyLink-VisitedLinkColor: #6f7071;
+        }
+      
+            
+          KotW 12/19: Baker, Cobbler, Festival, Ironmonger, Messenger, Sleigh, Snowy Village, Tracker, Treasure Map, Warehouse. Event: Bonfire. No Shelters. [Dominion, Seaside, Dark Ages, Guilds, Adventures, Nocturne, Menagerie]KotW14 upvotes12 comments

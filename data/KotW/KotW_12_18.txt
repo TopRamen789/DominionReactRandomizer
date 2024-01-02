@@ -1,0 +1,9 @@
+r/dominion•Posted byu/avocadromod1 year ago
+        .t3_zpgzgg.nbO8VWsMIB-Mv-tIa37NF {
+          --postTitle-VisitedLinkColor: #edeeef;
+          --postTitleLink-VisitedLinkColor: #6f7071;
+          --postBodyLink-VisitedLinkColor: #6f7071;
+        }
+      
+            
+          KotW 12/18: Acting Troupe, Bishop, Courier, Ducat, Fishing Village, Grand Market, Guildmaster, Highwayman, Lookout, Marquis. Ally: Desert Guides; Project: Innovation. Colony/Platinum. [Seaside, Prosperity, Renaissance, Allies]KotW5 upvotes9 comments

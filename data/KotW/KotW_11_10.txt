@@ -1,0 +1,9 @@
+r/dominion•Posted byu/avocadromod4 years ago
+        .t3_duo5l8.nbO8VWsMIB-Mv-tIa37NF {
+          --postTitle-VisitedLinkColor: #edeeef;
+          --postTitleLink-VisitedLinkColor: #6f7071;
+          --postBodyLink-VisitedLinkColor: #6f7071;
+        }
+      
+            
+          KotW 11/10: Death Cart, Fairgrounds, Forager, Harvest, Hunting Grounds, Ironmonger, Junk Dealer, Menagerie, Nobles, Swindler. Shelters. [Intrigue, Cornucopia, Dark Ages]KotW15 upvotes12 comments

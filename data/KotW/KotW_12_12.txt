@@ -1,0 +1,9 @@
+r/dominion•Posted byu/avocadromod2 years ago
+        .t3_rf58en.nbO8VWsMIB-Mv-tIa37NF {
+          --postTitle-VisitedLinkColor: #edeeef;
+          --postTitleLink-VisitedLinkColor: #6f7071;
+          --postBodyLink-VisitedLinkColor: #6f7071;
+        }
+      
+            
+          KotW 12/12: Animal Fair, Black Cat, Cardinal, Cartographer, Cellar, Gardens, Grand Market, Patrol, Trader, Worker's Village. Event: Invest; Way: Way of the Goat. No Col./Plat. [Dominion, Intrigue, Prosperity, Hinterlands, Menagerie]KotW8 upvotes15 comments

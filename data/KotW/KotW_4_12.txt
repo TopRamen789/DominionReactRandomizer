@@ -1,0 +1,9 @@
+r/dominion•Posted byu/avocadromod4 years ago
+        .t3_g0cg7g.nbO8VWsMIB-Mv-tIa37NF {
+          --postTitle-VisitedLinkColor: #edeeef;
+          --postTitleLink-VisitedLinkColor: #6f7071;
+          --postBodyLink-VisitedLinkColor: #6f7071;
+        }
+      
+            
+          KotW 4/12: Chariot Race, Engineer, Faithful Hound, Goons, Groundskeeper, Guardian, Mill, Replace, Tragic Hero, Worker's Village. Event: Triumph; Landmark: Arena. Colony/Platinum. [Intrigue, Prosperity, Empires, Nocturne]KotW12 upvotes18 comments

@@ -1,0 +1,9 @@
+r/dominion•Posted byu/avocadromod5 years ago
+        .t3_9wbgoc.nbO8VWsMIB-Mv-tIa37NF {
+          --postTitle-VisitedLinkColor: #edeeef;
+          --postTitleLink-VisitedLinkColor: #6f7071;
+          --postBodyLink-VisitedLinkColor: #6f7071;
+        }
+      
+            
+          KotW 11/11: Cursed Village, Exorcist, Guardian, Monastery, Native Village, Night Guardian, Pirate Ship, Raider, Squire, Tunnel. No Shelters. [Seaside, Hinterlands, Dark Ages, Nocturne]KotW5 upvotes9 comments

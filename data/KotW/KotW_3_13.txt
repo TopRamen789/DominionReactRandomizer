@@ -1,0 +1,9 @@
+r/dominion•Posted byu/avocadromod2 years ago
+        .t3_tdm345.nbO8VWsMIB-Mv-tIa37NF {
+          --postTitle-VisitedLinkColor: #edeeef;
+          --postTitleLink-VisitedLinkColor: #6f7071;
+          --postBodyLink-VisitedLinkColor: #6f7071;
+        }
+      
+            
+          KotW 3/13: Animal Fair, Cardinal, Cultist, Farming Village, Flag Bearer, Hunting Lodge, Menagerie, Patron, Scrap, Storeroom. Event: Invest; Way: Way of the Horse. No Shelters. [Cornucopia, Dark Ages, Renaissance, Menagerie]KotW4 upvotes6 comments

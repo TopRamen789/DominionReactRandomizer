@@ -1,0 +1,9 @@
+r/dominion•Posted byu/avocadromod4 years ago
+        .t3_deegqe.nbO8VWsMIB-Mv-tIa37NF {
+          --postTitle-VisitedLinkColor: #edeeef;
+          --postTitleLink-VisitedLinkColor: #6f7071;
+          --postBodyLink-VisitedLinkColor: #6f7071;
+        }
+      
+            
+          KotW 10/6: Bishop, Hamlet, Harbinger, Horn of Plenty, Jester, Menagerie, Mill, Sentry, Venture, Worker's Village. Colony/Platinum. [Dominion, Intrigue, Prosperity, Cornucopia]KotW13 upvotes26 comments

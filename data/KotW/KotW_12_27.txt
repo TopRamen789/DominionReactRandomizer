@@ -1,0 +1,9 @@
+r/dominion•Posted byu/avocadromod3 years ago
+        .t3_klm0ai.nbO8VWsMIB-Mv-tIa37NF {
+          --postTitle-VisitedLinkColor: #edeeef;
+          --postTitleLink-VisitedLinkColor: #6f7071;
+          --postBodyLink-VisitedLinkColor: #6f7071;
+        }
+      
+            
+          KotW 12/27: Animal Fair, Blessed Village, Fairgrounds, Festival, Grand Market, Horn of Plenty, Royal Carriage, Storyteller, Wandering Minstrel, Wine Merchant. Events: Bonfire, Seize the Day. No Shelters; no Colony/Platinum. [Base, Prosperity, Cornucopia, Dark Ages, Adventures, Nocturne, Menagerie]KotW4 upvotes3 comments

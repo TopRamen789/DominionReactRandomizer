@@ -1,0 +1,9 @@
+r/dominion•Posted byu/avocadromod5 years ago
+        .t3_a0g8ix.nbO8VWsMIB-Mv-tIa37NF {
+          --postTitle-VisitedLinkColor: #edeeef;
+          --postTitleLink-VisitedLinkColor: #6f7071;
+          --postBodyLink-VisitedLinkColor: #6f7071;
+        }
+      
+            
+          KotW 11/25: Bishop, Chariot Race, Crown, Nobles, Patrician/Emporium, Peddler, Secret Passage, Upgrade, Wild Hunt, Worker's Village. Events: Dominate, Triumph. Colony/Platinum. [Intrigue, Prosperity, Empires]KotW9 upvotes4 comments

@@ -1,0 +1,9 @@
+r/dominion•Posted byu/avocadromod4 years ago
+        .t3_cagxlb.nbO8VWsMIB-Mv-tIa37NF {
+          --postTitle-VisitedLinkColor: #edeeef;
+          --postTitleLink-VisitedLinkColor: #6f7071;
+          --postBodyLink-VisitedLinkColor: #6f7071;
+        }
+      
+            
+          KotW 7/7: Bishop, Herald, Inventor, Plaza, Priest, Research, Silk Merchant, Talisman, Taxman, Worker's Village. Project: Fair. Colony/Platinum. [Prosperity, Guilds, Renaissance]KotW8 upvotes7 comments

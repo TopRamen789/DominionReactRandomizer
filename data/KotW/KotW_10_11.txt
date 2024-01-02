@@ -1,0 +1,9 @@
+r/dominion•Posted byu/avocadromod3 years ago
+        .t3_j9npwd.nbO8VWsMIB-Mv-tIa37NF {
+          --postTitle-VisitedLinkColor: #edeeef;
+          --postTitleLink-VisitedLinkColor: #6f7071;
+          --postBodyLink-VisitedLinkColor: #6f7071;
+        }
+      
+            
+          KotW 10/11: Baron, Haggler, Hideout, Inn, Magpie, Mill, Patrol, Priest, Procession, Trade Route. Event: Inheritance; Project: Fair. No Colony/Platinum; no Shelters. [Intrigue, Prosperity, Hinterlands, Dark Ages, Adventures, Renaissance]KotW8 upvotes2 comments

@@ -1,0 +1,9 @@
+r/dominion•Posted byu/avocadromod2 years ago
+        .t3_ub77bx.nbO8VWsMIB-Mv-tIa37NF {
+          --postTitle-VisitedLinkColor: #edeeef;
+          --postTitleLink-VisitedLinkColor: #6f7071;
+          --postBodyLink-VisitedLinkColor: #6f7071;
+        }
+      
+            
+          KotW 4/24: Barge, Cardinal, Courtier, Displace, Lurker, Mandarin, Silk Road, Steward, Tunnel, Village Green. Event: Gamble; Way: Way of the Goat. [Intrigue, Hinterlands, Menagerie]KotW3 upvotes15 comments

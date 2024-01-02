@@ -1,0 +1,9 @@
+r/dominion•Posted byu/avocadromod5 years ago
+        .t3_9kd0wn.nbO8VWsMIB-Mv-tIa37NF {
+          --postTitle-VisitedLinkColor: #edeeef;
+          --postTitleLink-VisitedLinkColor: #6f7071;
+          --postBodyLink-VisitedLinkColor: #6f7071;
+        }
+      
+            
+          KotW 9/30: Cellar, Contraband, Fairgrounds, Festival, Hoard, Horse Traders, Loan, Vault, Venture, Watchtower. No Colony/Platinum. [Dominion, Prosperity, Cornucopia]KotW14 upvotes10 comments

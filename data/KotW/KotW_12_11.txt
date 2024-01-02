@@ -1,0 +1,9 @@
+r/dominion•Posted byu/avocadromod1 year ago
+        .t3_zjhqxo.nbO8VWsMIB-Mv-tIa37NF {
+          --postTitle-VisitedLinkColor: #edeeef;
+          --postTitleLink-VisitedLinkColor: #6f7071;
+          --postBodyLink-VisitedLinkColor: #6f7071;
+        }
+      
+            
+          KotW 12/11: Captain, Chapel, Coven, Ducat, Inventor, Militia, Scrap, Sculptor, Sheepdog, Snowy Village. Event: Invest; Project: Star Chart. [Dominion, Renaissance, Menagerie, Promos]KotW9 upvotes4 comments

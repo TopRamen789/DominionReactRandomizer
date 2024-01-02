@@ -1,0 +1,9 @@
+r/dominion•Posted byu/avocadromod3 years ago
+        .t3_jdwi4t.nbO8VWsMIB-Mv-tIa37NF {
+          --postTitle-VisitedLinkColor: #edeeef;
+          --postTitleLink-VisitedLinkColor: #6f7071;
+          --postBodyLink-VisitedLinkColor: #6f7071;
+        }
+      
+            
+          KotW 10/18: Encampment/Plunder, Hunting Lodge, Kiln, Legionary, Royal Blacksmith, Scrap, Sea Hag, Treasury, Village Green, Warehouse. Events: Desperation, Wedding. [Seaside, Empires, Menagerie]KotW6 upvotes15 comments

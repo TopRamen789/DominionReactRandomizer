@@ -1,0 +1,9 @@
+r/dominion•Posted byu/avocadromod4 years ago
+        .t3_frk6fj.nbO8VWsMIB-Mv-tIa37NF {
+          --postTitle-VisitedLinkColor: #edeeef;
+          --postTitleLink-VisitedLinkColor: #6f7071;
+          --postBodyLink-VisitedLinkColor: #6f7071;
+        }
+      
+            
+          KotW 3/29: Apothecary, Apprentice, Fortress, Magpie, Native Village, Rats, Raze, Scrying Pool, University, Vineyard. Event: Triumph; Landmarks: Bandit Fort, Tomb. No Shelters. [Seaside, Alchemy, Dark Ages, Adventures, Empires]KotW12 upvotes16 comments

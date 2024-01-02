@@ -1,0 +1,9 @@
+r/dominion•Posted byu/avocadromod2 years ago
+        .t3_uqhr55.nbO8VWsMIB-Mv-tIa37NF {
+          --postTitle-VisitedLinkColor: #edeeef;
+          --postTitleLink-VisitedLinkColor: #6f7071;
+          --postBodyLink-VisitedLinkColor: #6f7071;
+        }
+      
+            
+          KotW 5/15: Contract, Golem, Modify, Odysseys, Scrying Pool, Sycophant, Town, Townsfolk, Underling, University. Ally: Coastal Haven. [Alchemy, Allies]KotW1 upvote4 comments

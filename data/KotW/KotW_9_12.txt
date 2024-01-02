@@ -1,0 +1,9 @@
+r/dominion•Posted byu/avocadromod2 years ago
+        .t3_pn49ed.nbO8VWsMIB-Mv-tIa37NF {
+          --postTitle-VisitedLinkColor: #edeeef;
+          --postTitleLink-VisitedLinkColor: #6f7071;
+          --postBodyLink-VisitedLinkColor: #6f7071;
+        }
+      
+            
+          KotW 9/12: Butcher, City Quarter, Embassy, Faithful Hound, Fool's Gold, Merchant Guild, Night Watchman, Nomad Camp, Pooka, Tunnel. Event: Ritual; Landmark: Tower. [Hinterlands, Guilds, Empires, Nocturne]KotW6 upvotes24 comments

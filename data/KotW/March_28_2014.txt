@@ -1,0 +1,1 @@
+Adventurer,Bank,Beggar,Gardens,Hamlet,Highway,Inn,Menagerie,Remake,Tunnel

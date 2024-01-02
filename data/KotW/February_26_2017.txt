@@ -1,0 +1,1 @@
+Altar,Ambassador,Bazaar,Laboratory,Mill,Minion,Oasis,Smithy,Vagrant,Workshop

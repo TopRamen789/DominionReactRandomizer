@@ -1,0 +1,9 @@
+r/dominion•Posted byu/avocadromod5 years ago
+        .t3_amy7zy.nbO8VWsMIB-Mv-tIa37NF {
+          --postTitle-VisitedLinkColor: #edeeef;
+          --postTitleLink-VisitedLinkColor: #6f7071;
+          --postBodyLink-VisitedLinkColor: #6f7071;
+        }
+      
+            
+          KotW 2/3: Bridge, Capital, Hunting Grounds, Ironworks, Lurker, Mandarin, Mill, Plaza, Royal Carriage, Tunnel. Event: Dominion; Landmark: Defiled Shrine. No Shelters. [Intrigue, Hinterlands, Dark Ages, Guilds, Adventures, Empires]KotW10 upvotes25 comments

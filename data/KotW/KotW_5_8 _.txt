@@ -1,0 +1,9 @@
+r/dominion•Posted byu/avocadromod2 years ago
+        .t3_uldlkr.nbO8VWsMIB-Mv-tIa37NF {
+          --postTitle-VisitedLinkColor: #edeeef;
+          --postTitleLink-VisitedLinkColor: #6f7071;
+          --postBodyLink-VisitedLinkColor: #6f7071;
+        }
+      
+            
+          KotW 5/8: Advisor, Candlestick Maker, Herald, Lookout, Stonemason, Tactician, Throne Room, Treasury, Vassal, Witch. [Dominion, Seaside, Guilds]KotW8 upvotes10 comments

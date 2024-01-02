@@ -1,0 +1,1 @@
+Bandit,Bishop,Chapel,Cutpurse,Fishing Village,Lighthouse,Mountebank,Remodel,Tactician,Watchtower

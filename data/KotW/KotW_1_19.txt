@@ -1,0 +1,9 @@
+r/dominion•Posted byu/avocadromod4 years ago
+        .t3_er8r8v.nbO8VWsMIB-Mv-tIa37NF {
+          --postTitle-VisitedLinkColor: #edeeef;
+          --postTitleLink-VisitedLinkColor: #6f7071;
+          --postBodyLink-VisitedLinkColor: #6f7071;
+        }
+      
+            
+          KotW 1/19: Caravan, Cemetery, Courtier, Farmers' Market, Forum, Night Watchman, Nobles, Raider, Sacrifice, Vampire. Events: Ritual, Triumph. [Intrigue, Seaside, Empires, Nocturne]KotW8 upvotes11 comments

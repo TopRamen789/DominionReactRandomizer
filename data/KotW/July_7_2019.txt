@@ -1,0 +1,1 @@
+Bishop,Herald,Inventor,Plaza,Priest,Research,Silk Merchant,Talisman,Taxman,Worker's Village,Fair

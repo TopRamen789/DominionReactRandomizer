@@ -1,0 +1,9 @@
+r/dominion•Posted byu/avocadromod3 years ago
+        .t3_hymqub.nbO8VWsMIB-Mv-tIa37NF {
+          --postTitle-VisitedLinkColor: #edeeef;
+          --postTitleLink-VisitedLinkColor: #6f7071;
+          --postBodyLink-VisitedLinkColor: #6f7071;
+        }
+      
+            
+          KotW 7/26: Barge, Catapult, Count, Groom, Hunting Lodge, Kiln, Squire, Temple, Villa, Wayfarer. Landmark: Battlefield; Way: Way of the Seal. No Shelters. [Dark Ages, Empires, Menagerie]KotW5 upvotes4 comments

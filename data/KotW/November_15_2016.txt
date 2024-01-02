@@ -1,0 +1,1 @@
+Baker,Bishop,Chapel,Council Room,Militia,Peddler,Plaza,Stonemason,Witch,Workshop

@@ -1,0 +1,9 @@
+r/dominion•Posted byu/avocadromod3 years ago
+        .t3_jqsqe3.nbO8VWsMIB-Mv-tIa37NF {
+          --postTitle-VisitedLinkColor: #edeeef;
+          --postTitleLink-VisitedLinkColor: #6f7071;
+          --postBodyLink-VisitedLinkColor: #6f7071;
+        }
+      
+            
+          KotW 11/8: Acting Troupe, Baron, Engineer, Hamlet, Highway, Hireling, Relic, Research, Spice Merchant, Storeroom. Event: Advance; Landmark: Battlefield. [Intrigue, Cornucopia, Hinterlands, Dark Ages, Adventures, Empires, Renaissance]KotW7 upvotes6 comments

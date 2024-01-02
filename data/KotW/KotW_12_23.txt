@@ -1,0 +1,9 @@
+r/dominion•Posted byu/avocadromod5 years ago
+        .t3_a91p1y.nbO8VWsMIB-Mv-tIa37NF {
+          --postTitle-VisitedLinkColor: #edeeef;
+          --postTitleLink-VisitedLinkColor: #6f7071;
+          --postBodyLink-VisitedLinkColor: #6f7071;
+        }
+      
+            
+          KotW 12/23: Crown, Forager, Forge, Fortress, Forum, Gardens, Legionary, Merchant, Mine, Monument. Landmark: Tower. No Shelters; no Colony/Platinum. [Dominion, Prosperity, Dark Ages, Empires]KotW6 upvotes3 comments

@@ -1,0 +1,9 @@
+r/dominion•Posted byu/avocadromod2 years ago
+        .t3_oe16xm.nbO8VWsMIB-Mv-tIa37NF {
+          --postTitle-VisitedLinkColor: #edeeef;
+          --postTitleLink-VisitedLinkColor: #6f7071;
+          --postBodyLink-VisitedLinkColor: #6f7071;
+        }
+      
+            
+          KotW 7/4: Animal Fair, Coven, Ironworks, Lurker, Mill, Nobles, Rebuild, Smugglers, Snowy Village, Squire. Event: Bargain; Way: Way of the Sheep. No Shelters. [Intrigue, Seaside, Dark Ages, Menagerie]KotW6 upvotes9 comments

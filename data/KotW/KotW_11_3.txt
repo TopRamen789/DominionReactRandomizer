@@ -1,0 +1,9 @@
+r/dominion•Posted byu/avocadromod4 years ago
+        .t3_drcllm.nbO8VWsMIB-Mv-tIa37NF {
+          --postTitle-VisitedLinkColor: #edeeef;
+          --postTitleLink-VisitedLinkColor: #6f7071;
+          --postBodyLink-VisitedLinkColor: #6f7071;
+        }
+      
+            
+          KotW 11/3: Chariot Race, City Quarter, Grand Market, Inventor, Mint, Mountebank, Sacrifice, Scepter, Villa, Watchtower. Project: Fleet; Event: Ritual. Colony/Platinum. [Prosperity, Empires, Renaissance]KotW12 upvotes5 comments

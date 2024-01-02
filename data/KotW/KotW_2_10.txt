@@ -1,0 +1,9 @@
+r/dominion•Posted byu/avocadromod5 years ago
+        .t3_apdcs3.nbO8VWsMIB-Mv-tIa37NF {
+          --postTitle-VisitedLinkColor: #edeeef;
+          --postTitleLink-VisitedLinkColor: #6f7071;
+          --postBodyLink-VisitedLinkColor: #6f7071;
+        }
+      
+            
+          KotW 2/10: Ducat, Fishing Village, Grand Market, Improve, Mint, Scepter, Smugglers, Tactician, Venture, Villain. Projects: Capitalism, Exploration. No Colony/Platinum. [Seaside, Prosperity, Renaissance]KotW12 upvotes5 comments

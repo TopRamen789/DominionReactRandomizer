@@ -1,0 +1,9 @@
+r/dominion•Posted byu/avocadromod5 years ago
+        .t3_9o8jyx.nbO8VWsMIB-Mv-tIa37NF {
+          --postTitle-VisitedLinkColor: #edeeef;
+          --postTitleLink-VisitedLinkColor: #6f7071;
+          --postBodyLink-VisitedLinkColor: #6f7071;
+        }
+      
+            
+          KotW 10/14: Artisan, Bureaucrat, Charm, Devil's Workshop, Engineer, Forum, Gardens, Legionary, Monastery, Sacred Grove. Event: Wedding; Landmark: Triumphal Arch. [Dominion, Empires, Nocturne]KotW3 upvotes2 comments

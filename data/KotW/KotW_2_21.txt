@@ -1,0 +1,9 @@
+r/dominion•Posted byu/avocadromod3 years ago
+        .t3_lphjjd.nbO8VWsMIB-Mv-tIa37NF {
+          --postTitle-VisitedLinkColor: #edeeef;
+          --postTitleLink-VisitedLinkColor: #6f7071;
+          --postBodyLink-VisitedLinkColor: #6f7071;
+        }
+      
+            
+          KotW 2/21: Caravan, Cartographer, Chariot Race, Charm, Embassy, Fishing Village, Fool's Gold, Nomad Camp, Swindler, Upgrade. Event: Advance; Landmark: Bandit Fort. [Intrigue, Seaside, Hinterlands, Empires]KotW5 upvotes7 comments

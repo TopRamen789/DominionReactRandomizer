@@ -1,0 +1,9 @@
+r/dominion•Posted byu/kieranmillarMod17 days ago
+        .t3_18fgb8y.nbO8VWsMIB-Mv-tIa37NF {
+          --postTitle-VisitedLinkColor: #edeeef;
+          --postTitleLink-VisitedLinkColor: #6f7071;
+          --postBodyLink-VisitedLinkColor: #6f7071;
+        }
+      
+            
+          KotW 11 Dec: Corsair, Catapult/Rocks, Swindler, Feodum, Merchant, Wayfarer, Loan, Inn, Trader, Squire. Event: Salt the Earth. Trait: Cheap (Corsair). No Colonies. No Shelters. [Base, Intrigue, Seaside, Prosperity 1E, Hinterlands, Dark Ages, Empires, Plunder]KotW4 upvotes2 comments

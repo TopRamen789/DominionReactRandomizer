@@ -1,0 +1,9 @@
+r/dominion•Posted byu/avocadromod2 years ago
+        .t3_qab4vv.nbO8VWsMIB-Mv-tIa37NF {
+          --postTitle-VisitedLinkColor: #edeeef;
+          --postTitleLink-VisitedLinkColor: #6f7071;
+          --postBodyLink-VisitedLinkColor: #6f7071;
+        }
+      
+            
+          KotW 10/17: Contraband, Fortress, Golem, Hermit, Hunting Grounds, Monument, Quarry, Sage, Scrying Pool, Vineyard. Shelters; no Col./Plat. [Alchemy, Prosperity, Dark Ages]KotW13 upvotes21 comments
