@@ -76,53 +76,26 @@ const KingdomContextProvider: FC<Props> = (
         rollRandomSideboardSupply();
     }, [rollRandomKingdomSupply, rollRandomSideboardSupply]);
 
-    // Function to generate a random integer between min and max (inclusive)
-    const getRandomInt = (min: number, max: number) => Math.floor(Math.random() * (max - min + 1) + min);
+    const getRandomFile = async () => {
+        const response = await fetch('/kotws');
+        const data = await response.json();
 
-    // Function to generate a random date within the specified range
-    const getRandomDate = () => {
-        const startDate = new Date('August 1, 2013');
-        const endDate = new Date('August 31, 2020');
-        
-        const randomTimestamp = getRandomInt(startDate.getTime(), endDate.getTime());
-        const randomDate = new Date(randomTimestamp);
+        // Pick a random file
+        const randomIndex = Math.floor(Math.random() * data.files.length);
+        const selectedFile = data.files[randomIndex];
+        console.log(data.files);
 
-        return randomDate;
-    };
-
-    const getRandomDateNewDay = (date: Date) => {
-        const newStartDate = new Date(date.getFullYear(), date.getMonth(), 0);
-        const newEndDate = new Date(date.getFullYear(), date.getMonth()+1, 0);
-
-        const randomTimestamp = getRandomInt(newStartDate.getTime(), newEndDate.getTime());
-        const randomDate = new Date(randomTimestamp);
-
-        return randomDate;
-    };
-
-    // Function to format the date as "fullMonthName_singleDay_yearNumber.txt"
-    const formatFileName = (date: Date) => {
-        const month = date.toLocaleString('en-US', { month: 'long' });
-        const day = date.getDate();
-        const year = date.getFullYear();
-        return `${month}_${day}_${year}.txt`;
-    };
-
-    const doesFileExist = async (filePath: string) => {
-        try {
-            const resp = await fetch(filePath);
-            const text = await resp.text();
-            return text == null;
-        } catch (error) {
-            return false;
-        }
+        // Set the state with the selected file
+        return selectedFile;
     };
 
     const getKotW = useCallback((fileName: string) => {
-        console.log(`${KOTW_PATH}${fileName}`);
-        fetch(`${KOTW_PATH}${fileName}.txt`)
+        console.log(`/kotw/${fileName}`);
+        fetch(`/kotw/${fileName}`)
             .then((resp) => resp.text())
             .then((data) => {
+                console.log(data);
+
                 const cardNames = data.split(',');
 
                 const kingdomOfTheWeek = cardUtilities.filterByNames(D.Cards, cardNames);
@@ -142,27 +115,16 @@ const KingdomContextProvider: FC<Props> = (
     }, []);
 
     const getRandomKotW = useCallback(async () => {
-        // Get a random date and format the filename
-        let randomDate = getRandomDate();
-        let randomFileName = formatFileName(randomDate);
-        let retries = 0;
+        const regex = /^(?!KotW_)\w+_\d{2}_\d{4}\.txt$/;
+        let randomFile = await getRandomFile();
+        console.log(randomFile);
 
-        let fileDoesExist = await doesFileExist(`${KOTW_PATH}${randomFileName}`);
-
-        while(!fileDoesExist && retries < 60) {
-            randomDate = getRandomDateNewDay(randomDate);
-            randomFileName = formatFileName(randomDate);
-            retries++;
-            fileDoesExist = await doesFileExist(`${KOTW_PATH}${randomFileName}`);
-            console.log(randomDate, fileDoesExist);
+        while(!regex.test(randomFile)) {
+            randomFile = await getRandomFile();
+            console.log(randomFile);
         }
 
-        if(retries === 10) {
-            console.log("ERROR!");
-        }
-
-        console.log(randomFileName);
-        getKotW(randomFileName); 
+        getKotW(randomFile); 
     }, []);
 
     const contextValue: Kingdom = {
