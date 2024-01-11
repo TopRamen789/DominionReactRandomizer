@@ -6,9 +6,12 @@
 .kingdom {
   margin: 1rem;
   max-width: 1280px;
+  width: 1280px;
+  height: 930px;
 }
 
 .sidebar {
+  max-width: 304px;
   width: 304px;
   margin-top: 1rem;
 }

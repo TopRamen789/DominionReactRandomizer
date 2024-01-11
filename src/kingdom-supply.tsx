@@ -7,11 +7,11 @@ interface Props {}
 const KingdomSupply: FC<Props> = () => {
     const { kingdomCards, randomizeSupplyCard } = useKingdomContext();
 
-    return <>
+    return <div>
         {kingdomCards.map((card, index) =>
             <Card key={index} variant={CardVariant.Supply} card={card} randomize={randomizeSupplyCard} />
         )}
-    </>
+    </div>
 }
 
 export default KingdomSupply;

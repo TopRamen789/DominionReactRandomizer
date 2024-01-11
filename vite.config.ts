@@ -21,7 +21,7 @@ export default defineConfig({
             res.end(JSON.stringify({ files: txtFiles }));
           } else if (req.url.startsWith(kotwContentRoute)) {
             // Extract filename from the URL
-            const fileName = req.url.slice(kotwContentRoute.length);
+            const fileName = req.url.slice(kotwContentRoute.length).replace('%20', ' ');
 
             // Read and parse file contents
             try {

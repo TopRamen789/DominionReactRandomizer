@@ -89,14 +89,42 @@ const KingdomContextProvider: FC<Props> = (
         return selectedFile;
     };
 
-    const getKotW = useCallback((fileName: string) => {
-        console.log(`/kotw/${fileName}`);
+    const replacements = ["Event:", "Events:", "Project:", "Projects:", "Way:", "Ways:", "Landmark:", "Landmarks:"];
+
+    const parseOutSideboard = useCallback((data: string) => {
+        const pattern = /\.(.*?)(?=\[)/;
+        const matches = data.match(pattern);
+
+        if(matches) {
+            console.log(data);
+            const dataBetweenPeriodAndBracket = matches[1].trim();
+            const newData = dataBetweenPeriodAndBracket
+                .split(';')
+                .map((arr) =>arr.split(','))
+                .flat()
+                .map((arr) => arr.split('.'))
+                .flat()
+                .map((text) => {
+                    return replacements.reduce((result, replaceString) => result.replace(replaceString, "").trim(), text);
+                });
+            console.log(newData);
+            return newData;
+        }
+        return [];
+    }, []);
+
+    const getKotWThatNeedsParsing = useCallback((fileName: string) => {
         fetch(`/kotw/${fileName}`)
             .then((resp) => resp.text())
             .then((data) => {
-                console.log(data);
+                // const pattern = /KotW[^:]*: (.*?)(?=\[|$)/;
+                const pattern = /KotW[^:]*:\s*(.*?)(?=\.|$)/;
+                const matches = data.match(pattern);
+                if (!matches) throw 'Something went wrong!';
 
-                const cardNames = data.split(',');
+                const results = matches[1].trim();
+                const parsedSideboard = parseOutSideboard(data);
+                const cardNames = results.split(', ').concat(parsedSideboard);
 
                 const kingdomOfTheWeek = cardUtilities.filterByNames(D.Cards, cardNames);
                 const eventCards = cardUtilities.getEventCards();
@@ -112,19 +140,38 @@ const KingdomContextProvider: FC<Props> = (
                 setKingdomCards(supply);
                 setSideboardCards(sideboard);
             });
+    }, [parseOutSideboard]);
+
+    const getStandardizedKotW = useCallback((fileName: string) => {
+        console.log(`/kotw/${fileName}`);
+        fetch(`/kotw/${fileName}`)
+            .then((resp) => resp.text())
+            .then((data) => {
+                const cardNames = data.split(',');
+
+                const kingdomOfTheWeek = cardUtilities.filterByNames(D.Cards, cardNames);
+                const eventCards = cardUtilities.getEventCards();
+                const projectCards = cardUtilities.getProjectCards();
+                const landmarkCards = cardUtilities.getLandmarkCards();
+                const wayCards  = cardUtilities.getWayCards();
+                const artifactCards = cardUtilities.getArtifactCards();
+                const nonKingdomCards = [...eventCards, ...projectCards, ...landmarkCards, ...wayCards, ...artifactCards];
+
+                const supply = cardUtilities.filterByOtherCardSet(kingdomOfTheWeek, nonKingdomCards);
+                const sideboard = cardUtilities.filterByNames(kingdomOfTheWeek, nonKingdomCards.map(k => k.name));
+                setKingdomCards(supply);
+                setSideboardCards(sideboard);
+            });
     }, []);
 
     const getRandomKotW = useCallback(async () => {
-        const regex = /^(?!KotW_)\w+_\d{2}_\d{4}\.txt$/;
+        // const regex = /^(?!KotW_)\w+_\d{2}_\d{4}\.txt$/;
+        const regex = /^(?!KotW_)([a-zA-Z]+_\d{1,2}_\d{4}l?\.txt)$/;
         let randomFile = await getRandomFile();
         console.log(randomFile);
 
-        while(!regex.test(randomFile)) {
-            randomFile = await getRandomFile();
-            console.log(randomFile);
-        }
-
-        getKotW(randomFile); 
+        if(regex.test(randomFile)) getStandardizedKotW(randomFile);
+        else getKotWThatNeedsParsing(randomFile); 
     }, []);
 
     const contextValue: Kingdom = {
